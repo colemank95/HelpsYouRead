@@ -1,0 +1,5 @@
+# ini file for the reddit bot
+praw.ini
+
+# sensitive data for reddit bot 
+botinfo.txt
